@@ -1,19 +1,19 @@
-# DESIGN PHILOSOPHIES OF OPEN SOURCE SOFTWARES: A personal reference
+## DESIGN PHILOSOPHIES OF OPEN SOURCE SOFTWARES: A personal reference
 
 Basically, a link to the philosophies and design decisions behind some common open source projects.
 
-### DJANGO
+#### DJANGO
 https://docs.djangoproject.com/en/2.0/misc/design-philosophies/
 
-### FLASK 
+#### FLASK 
 http://flask.pocoo.org/docs/1.0/design/
 
-### RUST
+#### RUST
 https://blog.rust-lang.org/2017/05/05/libz-blitz.html
 
-### PYTHON
+#### PYTHON
 http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html
 
 
-### GO
+#### GO
 https://golang.org/doc/faq#principles
