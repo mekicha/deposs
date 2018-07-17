@@ -1,4 +1,5 @@
-## DESIGN PHILOSOPHIES OF OPEN SOURCE SOFTWARES: A personal reference
+## DESIGN PHILOSOPHIES/PRINCIPLES OF OPEN SOURCE SOFTWARES
+### A personal reference
 
 Basically, a link to the philosophies and design decisions behind some common open source projects.
 
